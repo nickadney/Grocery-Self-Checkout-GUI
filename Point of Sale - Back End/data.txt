@@ -1,0 +1,15 @@
+Ribeye,100,12.0,12.0,24,,0.0,meat
+Sirloin,101,10.0,12.0,24,,0.0,meat
+Strip,102,14.0,12.0,25,,0.0,meat
+Banana,200,1.0,16.0,25,,0.0,fruit
+Orange,201,1.0,16.0,25,,0.0,fruit
+Apple,202,1.0,16.0,25,,0.0,fruit
+Broccoli,203,1.0,16.0,25,,0.0,vegetable
+Carrot,204,1.0,16.0,25,,0.0,vegetable
+Squash,205,1.0,16.0,25,,0.0,vegetable
+Ham,300,9.0,16.0,25,,0.0,deli
+PrimeRib,301,11.0,16.0,25,,0.0,deli
+RoastBeef,302,10.0,16.0,25,,0.0,deli
+Spoon,400,5.0,16.0,25,,0.0,kitchen
+Fork,401,5.0,16.0,25,,0.0,kitchen
+Knife,402,5.0,16.0,23,,0.0,kitchen
