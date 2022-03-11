@@ -1,2 +1,2 @@
 # Point-of-Sale
-Point of sale application containing front and back end
+This is a project (currently not finished) that I did in Object Oriented Programming with Java. I started this project with the idea that I would create an application designed for a customer of a grocery store. First was the back end (and my favorite part). It consists of three classes, all in the "PointoffSale Backend" package, a tester class used to test functionality, a single entity class that holds a single product (Product) and a collection class that holds Products (ProductCollection). Some of the functionality of the back end includes.....
